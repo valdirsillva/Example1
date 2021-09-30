@@ -1,0 +1,19 @@
+{
+    "require-dev": {
+        "phpunit/phpunit" : "4.*"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "CDC\\Loja\\": [
+                "src/LIVRO/Loja",
+                "tests/LIVRO/Loja"
+
+            ],
+            "CDC\\Exemplos\\" :[
+                "src/LIVRO/Exemplos",
+                "tests/LIVRO/Exemplos"
+            ]
+        }
+    }
+}
