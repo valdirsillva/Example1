@@ -1,7 +1,7 @@
 <?php
 
 
-namespace LIVRO\Loja\Carrinho;
+namespace LIVRO\Loja\Produto;
 
 
 class Produto 

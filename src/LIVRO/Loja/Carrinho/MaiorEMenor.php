@@ -2,7 +2,7 @@
 
 
 
-namespace LIVRO\Loja\Produto;
+namespace LIVRO\Loja\Carrinho;
 
 use LIVRO\Loja\Carrinho\CarrinhoDeCompras;
 

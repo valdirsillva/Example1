@@ -5,12 +5,12 @@
 
     "autoload": {
         "psr-4": {
-            "CDC\\Loja\\": [
+            "LIVRO\\Loja\\": [
                 "src/LIVRO/Loja",
                 "tests/LIVRO/Loja"
 
             ],
-            "CDC\\Exemplos\\" :[
+            "LIVRO\\Exemplos\\" :[
                 "src/LIVRO/Exemplos",
                 "tests/LIVRO/Exemplos"
             ]
