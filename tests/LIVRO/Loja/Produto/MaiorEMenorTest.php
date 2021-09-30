@@ -43,5 +43,8 @@ class MaiorEMenorTest extends PHPUnit
         $this->assertEquals("Geladeira", $maiorEMenor->getMenor()->getNome());
         $this->assertEquals("Geladeira", $maiorEMenor->getMaior()->getNome());
 
+        // // Testar se o objeto recebido é um objeto
+        // $this->assertInstanceOf("LIVRO\Loja\Carrinho\Produto", $maiorEMenor->getMenor()->getNome());
+
     }
 }
