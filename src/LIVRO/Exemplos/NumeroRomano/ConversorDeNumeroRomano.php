@@ -2,7 +2,7 @@
 
 
 
-namespace LIVRO\Exemplos;
+namespace LIVRO\Exemplos\NumeroRomano;
 
 
 class ConversorDeNumeroRomano 
