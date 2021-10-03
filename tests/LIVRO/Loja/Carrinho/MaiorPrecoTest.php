@@ -3,14 +3,14 @@
 
 namespace LIVRO\Loja\Carrinho;
 
-require "./vendor/autoload.php";
 
+use LIVRO\Loja\Test\TestCase;
 use LIVRO\Loja\Carrinho\CarrinhoDeCompras;
 use LIVRO\Loja\Produto\MaiorPreco;
 
-use PHPUnit_Framework_TestCase as PHPUnit;
 
-class MaiorPrecoTest extends PHPUnit 
+
+class MaiorPrecoTest extends TestCase 
 {
     
     public function testDeveRetornarZeroSeCarrinhoVazio() 
