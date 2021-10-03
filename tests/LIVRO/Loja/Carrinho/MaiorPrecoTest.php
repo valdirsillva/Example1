@@ -6,7 +6,7 @@ namespace LIVRO\Loja\Carrinho;
 require "./vendor/autoload.php";
 
 use LIVRO\Loja\Carrinho\CarrinhoDeCompras;
-use LIVRO\Loja\Carrinho\MaiorPreco;
+use LIVRO\Loja\Produto\MaiorPreco;
 
 use PHPUnit_Framework_TestCase as PHPUnit;
 
